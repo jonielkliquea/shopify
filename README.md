@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo is not funcional
+
 # Shopify VTEX seller connector App
 
 Using this custom connector will allow VTEX stores to become marketplaces themselves and sell products from an external shopify seller.
